@@ -17,8 +17,8 @@ title: Fırat Üniversitesi Adli Bilişim Topluluğu
 email: fuadlibilisim@gmail.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://wwww.fuadlibilisim.com" # the base hostname & protocol for your site, e.g. http://example.com
-enforce_ssl: wwww.fuadlibilisim.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl:
 
 # Build settings
 markdown: kramdown
