@@ -8,4 +8,4 @@ categories: action
 14.12.2015 tarihinde “Fırat Üniversitesi Bahaeddin Ögel Konferans Salonunda” Türkiye’nin ilk ve tek Adli Bilişim Mühendisi olan Tuncay Beşikçi’nin konuşmacı olarak katıldığı “Uzmanından Adli Bilişim” konulu konferans düzenlendi. Hızla gelişen teknolojiyle beraber çeşitlenen bilişim suçlarının işleniş şekilleri, incelemeleri, yargılamalardaki hukuki süreçleri v.b konuları ele alan konferansımız "Adli Bilişim" alanında [TUNCAY BEŞİKÇİ](https://www.linkedin.com/in/tuncaybesikci/)'nin mesleki tecrübeleri ışığında yaptığı konuşmaları içermiştir.
 
 #### Tuncay Beşikçi Kimdir?
-<div align="center"><img src="https://fuadlibilisim.github.io/abt/assets/img/tuncay-besikci.jpg"  width="350"></div>
+<div align="center"><img src="https://fuadlibilisim.github.io/abt/assets/img/tuncay-besikci.jpg"  width="750"></div>
