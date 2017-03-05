@@ -11,7 +11,18 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-
+  <div class="author">
+    <h3>Yazar : </h3><h3>{{page.author}}</h3>
+    {% if page.fb-author %}
+    •<a href="http://twitter.com/{{page.tw-author}}">Twitter</a>
+    {% endif %}
+    {% if page.fb-author %}
+    •<a href="http://facebook.com/{{page.fb-author}}">Facebook</a>
+    {% endif %}
+    {% if page.gh-author %}
+    •<a href="http://github.com/{{page.gh-author}}">Github</a>
+    {% endif %}
+  </div>
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}
