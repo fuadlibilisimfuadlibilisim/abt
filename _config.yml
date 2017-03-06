@@ -18,7 +18,7 @@ email: fuadlibilisim@gmail.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fuadlibilisim.github.io/abt/" # the base hostname & protocol for your site, e.g. http://example.com
-enforce_ssl: www.fuadlibilisim.github.io/abt/
+enforce_ssl: fuadlibilisim.github.io/abt/
 
 # Build settings
 markdown: kramdown
