@@ -5,12 +5,12 @@
 </header>
 
 <div class="bread-crumbs bread-home">
-    <div class="wrapper" align="center">
+    <div class="wrapper md-area" align="center">
         Her şapkadan beyaz tavşan çıkmaz!
-               <div>
+            <div>
                 <a href="{{site.url}}/about/"><div class="button button1">Biz kimiz?</div></a>
                 <a href="https://goo.gl/forms/APBAUZ3lGNYtWNOD2"><div class="button button2">E-kayıt</div></a>
-        			</div>
+        		</div>
     </div>
 </div>
 
@@ -25,6 +25,7 @@
 
     <div class="trigger">
         {% for my_page in site.pages %} {% if my_page.title %}
-        <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a> {% endif %} {% endfor %}
+        <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a> 
+        {% endif %} {% endfor %}
     </div>
 </nav>
