@@ -1,0 +1,54 @@
+- name: Feride Nur Çelik
+  image: /assets/img/members/feride.png
+  social: https://twitter.com/Feridenurcelik
+  task: Topluluk Başkanı
+  
+- name: Arif Metehan Yıldız
+  image: /assets/img/members/mete.png
+  social: https://twitter.com/NeMesiss23
+  task:  Başkan Yardımcısı
+
+- name: Hatice Çaloğlu
+  image: /assets/img/members/hatice.png
+  social:  https://twitter.com/23htc23
+  task: Başkan Yardımcısı
+  
+- name: İsmail Fırat Çelik
+  image: /assets/img/members/ismail.png
+  social: https://www.instagram.com/ismailfiratcelik/
+  task: Reklam ve Sponsorluk Koord.
+  
+- name: Burak Yetimoğlu
+  image: 
+  social: https://twitter.com/fclburak
+  task: Proje Koord.
+
+- name: Erdem Güriçin
+  image: /assets/img/members/erdem.png
+  social: 
+  task:	Proje Koord.
+  
+- name: Enes ilhan Aydın
+  image: /assets/img/members/enesayd.png
+  social:  https://twitter.com/enesilhaydin
+  task: Grafik Tasarım Koord.  
+    
+- name: İsmet Arda Köroğlu
+  image: /assets/img/members/ismet.png
+  social: https://www.instagram.com/ismetarda/
+  task: Finans Koord.
+  
+- name: Ömer Faruk Özer
+  image: /assets/img/members/ömerfaruk.jpg
+  social:
+  task: Finans Koord.
+    
+- name: Mehmet Türkoğlu
+  image: /assets/img/members/mehmett.png
+  social: 
+  task: Etkinlik Koord.
+  
+- name: Yiğit Polat
+  image: /assets/img/members/yigit.jpg
+  social:
+task: Belgelendirme Koord.
