@@ -45,10 +45,10 @@
 
 - name: Mehmet Türkoğlu
   image: /assets/img/members/mehmett.png
-  social:
+  social: https://www.facebook.com/m3hm3t.98
   task: Etkinlik Koord.
 
 - name: Yiğit Polat
   image: /assets/img/members/yigit.jpg
-  social:
+  social: https://www.facebook.com/yigitcan.u.polat
   task: Belgelendirme Koord.
