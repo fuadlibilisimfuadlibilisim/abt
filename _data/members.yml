@@ -25,7 +25,7 @@
 
 - name: Erdem Güriçin
   image: /assets/img/members/erdem.png
-  social:
+  social: https://www.facebook.com/alaaddinguricin
   task:	Proje Koord.
 
 - name: Enes ilhan Aydın
